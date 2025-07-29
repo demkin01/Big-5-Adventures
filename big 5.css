@@ -1139,7 +1139,7 @@ footer {
         justify-content: center;
     }
     .footer-logo-cont{
-        margin-left: 134px;
+        margin-left: 130px;
         margin-top: -3px;
     }
     
@@ -1153,7 +1153,7 @@ footer {
         width: 30px;
         justify-content: center;
         margin-top: 2px;
-        margin-left: 183px;
+        margin-left: 179px;
     }
     .footer-grid {
         grid-template-columns: 1fr;
