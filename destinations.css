@@ -1140,17 +1140,14 @@ gap: 10px;
             .hero-slide-content p {
                 font-size: 1.1rem;
             }
-            .slideshow-controls {
-                position: absolute;
-                bottom: -15px;
-                left: 50%;
-                transform: translateX(-50%);
-                display: flex;
-       
-            }
             
             section {
                 padding: 40px 0;
+            }
+            
+            .footer-grid {
+                grid-template-columns: 1fr;
+                text-align: center;
             }
             .footer-logo-cont{
         margin-left: 130px;
@@ -1166,14 +1163,9 @@ gap: 10px;
         height: 30px;
         width: 30px;
         justify-content: center;
-        margin-top: 1px;
+        margin-top: 2px;
         margin-left: 179px;
     }
-            
-            .footer-grid {
-                grid-template-columns: 1fr;
-                text-align: center;
-            }
             
             .footer-col ul li {
                 justify-content: center;
