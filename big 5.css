@@ -354,7 +354,7 @@ nav {
 
 .slideshow-controls {
     position: absolute;
-    bottom: 20px;
+    bottom: -47px;
     left: 50%;
     transform: translateX(-50%);
     display: flex;
@@ -1101,6 +1101,25 @@ footer {
 
     .hero-slide-content p {
         font-size: 1.1rem;
+    }
+    .hero-cta{
+        display: flex;
+    gap: 20px;
+    justify-content: center;
+    text-align: center;
+    }
+    .hero-cta a{
+        font-size: 1rem;
+        justify-content: center;
+        
+    }
+    .slideshow-controls {
+        position: absolute;
+        bottom: -25px;
+        left: 50%;
+        transform: translateX(-50%);
+        display: flex;
+       
     }
 
     section {
