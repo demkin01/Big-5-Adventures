@@ -1169,7 +1169,8 @@ gap: 10px;
             }
             
             .social-icons {
-                justify-content: center;
+                 right: 10px;
+                  margin-bottom: 60px;
             }
             
             .footer-newsletter {
